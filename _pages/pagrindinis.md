@@ -9,9 +9,6 @@ published: true
 post_date: 2017-06-19 05:41:37
 ---
 <p>Advokatų kontora</p>		
-					<h3 data-speed="50" data-delay="1000" data-loop="0">
-							ADC Legal
-					</h3>
 			<h1>ADC Legal</h1>		
 		<p>Išskirtinę patirtį turintys teisės ekspertai</p>		
 			<a href="/apie-mus/" role="button">
