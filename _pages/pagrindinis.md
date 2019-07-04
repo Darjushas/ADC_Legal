@@ -61,7 +61,7 @@ post_date: 2017-06-19 05:41:37
 			<h3>Narystės</h3>		
 				<figure><img src="http://134.209.242.107/wp-content/uploads/2019/07/Inkedbita-small_LI.jpg" alt="Inkedbita small_LI" /></figure><figure><img src="http://134.209.242.107/wp-content/uploads/2019/07/rekyba.png" alt="prekyba" /></figure><figure><img src="http://134.209.242.107/wp-content/uploads/2019/07/Inkedbita-small_LI-1.jpg" alt="Inkedbita small_LI" /></figure><figure><img src="http://134.209.242.107/wp-content/uploads/2019/07/idialo-768x230.png" alt="idialo" /></figure>			
 			<h3>Reikalingos teisinės konsultacijos?</h3>		
-			<p>Mes pasirengę Jums suteikti profesionales teisines konsultacijas</p>		
+			<p>Mes pasirengę Jums suteikti profesionalias teisines konsultacijas</p>		
 			<a href="tel:+370 687 26453​" role="button">
 						+370 687 26453
 					</a>
