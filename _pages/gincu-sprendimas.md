@@ -46,3 +46,8 @@ post_date: 2019-06-13 12:56:52
 											</a>
 									</li>
 						</ul>
+			<h3>Reikalingas patarimas renkantis Jus dominančią paslaugą?</h3>		
+			<p>Aprašymas nėra viskas, patirtis ir sėkmės istorijos - yra viskas</p>		
+			<a href="tel:+370 687 26453​" role="button">
+						+370 687 26453
+					</a>
