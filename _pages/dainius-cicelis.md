@@ -8,7 +8,7 @@ permalink: http://134.209.242.107/dainius-cicelis/
 published: true
 post_date: 2019-06-13 05:30:57
 ---
-<img width="507" height="840" src="http://134.209.242.107/wp-content/uploads/2019/06/white-background-dainius-e1560407082195.png" alt="" srcset="http://134.209.242.107/wp-content/uploads/2019/06/white-background-dainius-e1560407082195.png 507w, http://134.209.242.107/wp-content/uploads/2019/06/white-background-dainius-e1560407082195-181x300.png 181w" sizes="(max-width: 507px) 100vw, 507px" />											
+<img width="683" height="1024" src="http://134.209.242.107/wp-content/uploads/2019/07/4L2A2936.jpg" alt="" />											
 							<a href="https://www.facebook.com/adclegal.lt/?ref=br_rs" target="_blank" rel="noopener noreferrer">
 					Facebook
 				</a>
@@ -48,7 +48,7 @@ post_date: 2019-06-13 05:30:57
 				        </section>
 			<h2>DAINIUS ČIČELIS​</h2>		
 		<p>ADVOKATAS, VADOVAUJANTIS PARTNERIS</p>		
-										<img width="507" height="840" src="http://134.209.242.107/wp-content/uploads/2019/06/white-background-dainius-e1560407082195.png" alt="" srcset="http://134.209.242.107/wp-content/uploads/2019/06/white-background-dainius-e1560407082195.png 507w, http://134.209.242.107/wp-content/uploads/2019/06/white-background-dainius-e1560407082195-181x300.png 181w" sizes="(max-width: 507px) 100vw, 507px" />											
+										<img width="683" height="1024" src="http://134.209.242.107/wp-content/uploads/2019/07/4L2A2936.jpg" alt="" />											
 							<a href="https://www.facebook.com/adclegal.lt/?ref=br_rs" target="_blank" rel="noopener noreferrer">
 					Facebook
 				</a>
