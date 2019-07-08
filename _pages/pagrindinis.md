@@ -9,8 +9,7 @@ published: true
 post_date: 2017-06-19 05:41:37
 ---
 <p>Advokatų kontora</p>		
-					ADC  
-					LEGAL			
+					ADC LEGAL			
 			<!-- close .eael-fancy-text-container -->
 		<p>Išskirtinę patirtį turintys teisės ekspertai</p>		
 			<a href="/apie-mus/" role="button">
