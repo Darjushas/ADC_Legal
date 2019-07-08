@@ -4,7 +4,7 @@ post_title: Pagrindinis
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://adclegal.vebkomas.lt/
+permalink: http://134.209.242.107/
 published: true
 post_date: 2017-06-19 05:41:37
 ---
