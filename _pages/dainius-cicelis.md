@@ -8,7 +8,7 @@ permalink: http://134.209.242.107/dainius-cicelis/
 published: true
 post_date: 2019-06-13 05:30:57
 ---
-<img width="683" height="1024" src="http://134.209.242.107/wp-content/uploads/2019/07/4L2A2936.jpg" alt="" />											
+<img width="657" height="1024" src="http://134.209.242.107/wp-content/uploads/2019/07/4L2A2936-—-копия-657x1024.jpg" alt="" srcset="http://134.209.242.107/wp-content/uploads/2019/07/4L2A2936-—-копия-657x1024.jpg 657w, http://134.209.242.107/wp-content/uploads/2019/07/4L2A2936-—-копия-192x300.jpg 192w, http://134.209.242.107/wp-content/uploads/2019/07/4L2A2936-—-копия-768x1197.jpg 768w" sizes="(max-width: 657px) 100vw, 657px" />											
 							<a href="https://www.facebook.com/adclegal.lt/?ref=br_rs" target="_blank" rel="noopener noreferrer">
 					Facebook
 				</a>
@@ -48,7 +48,7 @@ post_date: 2019-06-13 05:30:57
 				        </section>
 			<h2>DAINIUS ČIČELIS​</h2>		
 		<p>ADVOKATAS, VADOVAUJANTIS PARTNERIS</p>		
-										<img width="683" height="1024" src="http://134.209.242.107/wp-content/uploads/2019/07/4L2A2936.jpg" alt="" />											
+										<img width="657" height="1024" src="http://134.209.242.107/wp-content/uploads/2019/07/4L2A2936-—-копия-657x1024.jpg" alt="" srcset="http://134.209.242.107/wp-content/uploads/2019/07/4L2A2936-—-копия-657x1024.jpg 657w, http://134.209.242.107/wp-content/uploads/2019/07/4L2A2936-—-копия-192x300.jpg 192w, http://134.209.242.107/wp-content/uploads/2019/07/4L2A2936-—-копия-768x1197.jpg 768w" sizes="(max-width: 657px) 100vw, 657px" />											
 							<a href="https://www.facebook.com/adclegal.lt/?ref=br_rs" target="_blank" rel="noopener noreferrer">
 					Facebook
 				</a>
