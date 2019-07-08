@@ -29,7 +29,7 @@ post_date: 2017-06-19 05:41:37
 			<figure><a href="http://134.209.242.107/restrukturizavimas-ir-nemokumas/" target="_blank" rel="noopener noreferrer"><img src="http://134.209.242.107/wp-content/uploads/2019/06/pie-chart-1.svg" alt="" height="396.455" width="396.455" /></a></figure><h4><a href="http://134.209.242.107/restrukturizavimas-ir-nemokumas/" target="_blank" rel="noopener noreferrer">Restruktūrizavimas ir nemokumas</a></h4><p>	
 </p>		
 			<h3>Advokatų komanda</h3>		
-										<img width="882" height="893" src="http://134.209.242.107/wp-content/uploads/2019/06/apskritimas.png" alt="" srcset="http://134.209.242.107/wp-content/uploads/2019/06/apskritimas.png 882w, http://134.209.242.107/wp-content/uploads/2019/06/apskritimas-296x300.png 296w, http://134.209.242.107/wp-content/uploads/2019/06/apskritimas-768x778.png 768w" sizes="(max-width: 882px) 100vw, 882px" />											
+										<img width="1024" height="1024" src="http://134.209.242.107/wp-content/uploads/2019/07/download-1024x1024.png" alt="" srcset="http://134.209.242.107/wp-content/uploads/2019/07/download-1024x1024.png 1024w, http://134.209.242.107/wp-content/uploads/2019/07/download-150x150.png 150w, http://134.209.242.107/wp-content/uploads/2019/07/download-300x300.png 300w, http://134.209.242.107/wp-content/uploads/2019/07/download-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />											
 			<h4>Dainius Čičelis</h4>		
 		<p>ADVOKATAS, VADOVAUJANTIS PARTNERIS</p><p><a href="mailto:dainius.cicelis@adclegal.lt">dainius.cicelis@adclegal.lt</a></p><p>+370 687 26453</p>		
 							<a href="https://www.facebook.com/adclegal.lt/?ref=br_rs" target="_blank" rel="noopener noreferrer">
