@@ -9,7 +9,7 @@ published: true
 post_date: 2017-06-19 05:41:37
 ---
 <p>Advokatų kontora</p>		
-					ADC LEGAL			
+					ADC LEGAL, Dainiaus Čičelio			
 			<!-- close .eael-fancy-text-container -->
 			<h2>ADC LEGAL</h2>		
 		<p>Išskirtinę patirtį turintys teisės ekspertai</p>		
