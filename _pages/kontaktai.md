@@ -4,7 +4,7 @@ post_title: Kontaktai
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://134.209.242.107/kontaktai/
+permalink: http://adclegal.vebkomas.lt/kontaktai/
 published: true
 post_date: 2017-06-19 07:08:22
 ---
